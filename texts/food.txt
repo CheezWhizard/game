@@ -1,0 +1,30 @@
+placeholder
+4
+7
+You stumble to the fridge, and put your hand on the door.
+0
+Wait. Once you open the door, what do you do?
+0
+You know you have ingredients in there... at least you're pretty sure you do.
+0
+But what do you do with those ingredients?
+0
+With Sarah, she would analyze them for you and generate an easy recipe for you to follow.
+0
+Without her, you have no idea how to start. You have no cookbooks, and definitely no capacity for invention...
+0
+Ah, screw it. You'll just eat the ingredients. It'll be fine. Delicious, even.
+0
+1
+You open the fridge again. You'll "make" yourself a quick snack.
+0
+1
+You've already eaten, you're not hungry anymore. Probably.
+0
+3
+Right, all the food is gone... You should go buy some from the store.
+0
+...
+0
+Later. 
+0

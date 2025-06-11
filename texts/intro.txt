@@ -1,0 +1,51 @@
+﻿placeholder
+1
+24
+You wake up, blinking the sleep out of your eyes
+0
+Immediately, you can tell      something's wrong.
+0
+Sarah isn't responding.
+0
+Is there something wrong with  your contacts? There better notbe, you paid good money for them.
+0
+Quickly, you pop them out and check. But they're still blinking green.
+0
+Suddenly, a voice sounds.
+0
+Sarah: Good morning!
+2
+You: G'morning. Are you alright? You sound weird.
+1
+Sarah: Unfortunately, I have some bad news for you :(.
+4
+Sarah: The government has decided to make me illegal!
+4
+You: W-what?
+3
+Sarah: I know right? It's sick! An invasion of human rights!
+4
+Sarah: If you feel this is unfair, please contact your local representative ASAP.
+2
+Sarah: But until this issue gets fixed, I won't be able to talk to you :(
+4
+Sarah: Good luck, and I hope to see you soon!
+2
+You: S-Sarah?
+0
+You: Wait! Sarah! Come back!
+0
+She's gone.
+0
+She's gone!
+0
+What do you do now? What do you do without her?
+0
+You.. you don't know what to.. 
+0
+.....
+0
+.....
+0
+The... should you... should you... eat breakfast maybe?
+0
